@@ -1,0 +1,632 @@
+{
+    "13705082463409514165": {
+        "instance": "TANK:DVD_GhostInTheShell_Channel",
+        "seen": false,
+        "is_premiere": false
+    },
+    "15775504220684967592": {
+        "instance": "TANK:DVD_Clueless_Channel",
+        "seen": false,
+        "is_premiere": true
+    },
+    "18084015095481766410": {
+        "instance": "TANK:DVD_Moana_Channel",
+        "seen": false,
+        "is_premiere": false
+    },
+    "10672435483101363168": {
+        "instance": "TANK:DVD_ANightmareOnElmStreet_Channel",
+        "seen": false,
+        "is_premiere": true
+    },
+    "10974395442864945470": {
+        "instance": "TANK:DVD_DespicableMe_Channel",
+        "seen": false,
+        "is_premiere": false
+    },
+    "12373897247234490076": {
+        "instance": "TANK:DVD_TheShawshankRedemption_Channel",
+        "seen": false,
+        "is_premiere": true
+    },
+    "15124309275742603747": {
+        "instance": "TANK:DVD_Elemental_Channel",
+        "seen": false,
+        "is_premiere": false
+    },
+    "15694148271252588866": {
+        "instance": "TANK:DVD_Brave_Channel",
+        "seen": false,
+        "is_premiere": false
+    },
+    "17112455088667214405": {
+        "instance": "TANK:DVD_CarlsDate_Channel",
+        "seen": false,
+        "is_premiere": true
+    },
+    "10628180184716142271": {
+        "instance": "TANK:DVD_MadlyMadagascar_Channel",
+        "seen": false,
+        "is_premiere": true
+    },
+    "11232346727547116340": {
+        "instance": "TANK:DVD_AQuietPlace_Channel",
+        "seen": false,
+        "is_premiere": true
+    },
+    "9905204780274105669": {
+        "instance": "TANK:DVD_LOTRTheFellowshipOfTheRing_Channel",
+        "seen": false,
+        "is_premiere": true
+    },
+    "10061362433682079455": {
+        "instance": "TANK:DVD_Scream_Channel",
+        "seen": false,
+        "is_premiere": true
+    },
+    "14392528283866877341": {
+        "instance": "TANK:DVD_SmurfsTheLostVillage_Channel",
+        "seen": false,
+        "is_premiere": true
+    },
+    "12238593592175611755": {
+        "instance": "TANK:DVD_TheDevilWearsPrada_Channel",
+        "seen": false,
+        "is_premiere": false
+    },
+    "13958615919137754539": {
+        "instance": "TANK:DVD_FriendsSeason3_Channel",
+        "seen": false,
+        "is_premiere": false
+    },
+    "14892058472874631173": {
+        "instance": "TANK:DVD_MinionsTheStory_Channel",
+        "seen": false,
+        "is_premiere": false
+    },
+    "13061348641430642531": {
+        "instance": "TANK:DVD_Lightyear_Channel",
+        "seen": false,
+        "is_premiere": false
+    },
+    "14631606526672603025": {
+        "instance": "TANK:DVD_TheAccountant_Channel",
+        "seen": false,
+        "is_premiere": true
+    },
+    "16205893309220005242": {
+        "instance": "TANK:DVD_BabyBoy_Channel",
+        "seen": false,
+        "is_premiere": false
+    },
+    "9846139577342381876": {
+        "instance": "TANK:DVD_TheNun_Channel",
+        "seen": false,
+        "is_premiere": false
+    },
+    "12551066588779783146": {
+        "instance": "TANK:DVD_M3gan_Channel",
+        "seen": false,
+        "is_premiere": true
+    },
+    "15793968815680564154": {
+        "instance": "TANK:DVD_Frozen_Channel",
+        "seen": false,
+        "is_premiere": true
+    },
+    "11295913501010622978": {
+        "instance": "TANK:DVD_HomeAlone_Channel",
+        "seen": false,
+        "is_premiere": true
+    },
+    "17173646303028455331": {
+        "instance": "TANK:DVD_AvatarTheWayOfWater_Channel",
+        "seen": false,
+        "is_premiere": false
+    },
+    "14995692042148961757": {
+        "instance": "TANK:DVD_WallE_Channel",
+        "seen": false,
+        "is_premiere": false
+    },
+    "9429214133743355468": {
+        "instance": "TANK:DVD_BigHero6_Channel",
+        "seen": false,
+        "is_premiere": false
+    },
+    "14049944216608177887": {
+        "instance": "TANK:DVD_ShazamFuryOfTheGods_Channel",
+        "seen": false,
+        "is_premiere": true
+    },
+    "13603289930389246766": {
+        "instance": "TANK:DVD_KungFuPanda_Channel",
+        "seen": false,
+        "is_premiere": true
+    },
+    "12793815652230727142": {
+        "instance": "TANK:DVD_TheBossBaby_Channel",
+        "seen": false,
+        "is_premiere": true
+    },
+    "17087000893976107462": {
+        "instance": "TANK:DVD_AlitaBattleAngel_Channel",
+        "seen": false,
+        "is_premiere": true
+    },
+    "10121837339597350486": {
+        "instance": "TANK:DVD_TheConjuring_Channel",
+        "seen": false,
+        "is_premiere": true
+    },
+    "12556052053619513603": {
+        "instance": "TANK:DVD_Seven_Channel",
+        "seen": false,
+        "is_premiere": false
+    },
+    "17754549631342640906": {
+        "instance": "TANK:DVD_FriendsSeason2_Channel",
+        "seen": false,
+        "is_premiere": false
+    },
+    "17267952490603317711": {
+        "instance": "TANK:DVD_RiseOfTheGuardians_Channel",
+        "seen": false,
+        "is_premiere": true
+    },
+    "10224621755417961393": {
+        "instance": "TANK:DVD_FriendsSeason1_Channel",
+        "seen": false,
+        "is_premiere": false
+    },
+    "15866051417550243153": {
+        "instance": "TANK:DVD_Halloween2_Channel",
+        "seen": false,
+        "is_premiere": true
+    },
+    "14813322770370073979": {
+        "instance": "TANK:DVD_BladeRunner2049_Channel",
+        "seen": false,
+        "is_premiere": true
+    },
+    "16203910502952745407": {
+        "instance": "TANK:DVD_EvilDeadRise_Channel",
+        "seen": false,
+        "is_premiere": true
+    },
+    "14929577935124414664": {
+        "instance": "TANK:DVD_TheSuperMarioBros_Channel",
+        "seen": false,
+        "is_premiere": false
+    },
+    "14729877599521203004": {
+        "instance": "TANK:DVD_Nope_Channel",
+        "seen": false,
+        "is_premiere": true
+    },
+    "14483549508202390288": {
+        "instance": "TANK:DVD_ScaryGodmotherHalloweenSpooktakular_Channel",
+        "seen": false,
+        "is_premiere": false
+    },
+    "11832263223295807678": {
+        "instance": "TANK:DVD_IceAge_Channel",
+        "seen": false,
+        "is_premiere": false
+    },
+    "13502642772281096930": {
+        "instance": "TANK:DVD_ScaredShrekless_Channel",
+        "seen": false,
+        "is_premiere": true
+    },
+    "17319030559880216198": {
+        "instance": "TANK:DVD_FiftyShadesOfGrey_Channel",
+        "seen": false,
+        "is_premiere": false
+    },
+    "17867944601879318051": {
+        "instance": "TANK:DVD_TheAddamsFamily_Channel",
+        "seen": false,
+        "is_premiere": true
+    },
+    "15517607619369075547": {
+        "instance": "TANK:DVD_JohnWick4_Channel",
+        "seen": false,
+        "is_premiere": false
+    },
+    "18026017236545996330": {
+        "instance": "TANK:DVD_Ruin_Channel",
+        "seen": false,
+        "is_premiere": false
+    },
+    "13216988904952888562": {
+        "instance": "TANK:DVD_GhostReconAlpha_Channel",
+        "seen": false,
+        "is_premiere": true
+    },
+    "16948178637253424238": {
+        "instance": "TANK:DVD_TheAngryBirdsMovie2_Channel",
+        "seen": false,
+        "is_premiere": true
+    },
+    "11641573091044795406": {
+        "instance": "TANK:DVD_TheMatrix_Channel",
+        "seen": false,
+        "is_premiere": false
+    },
+    "16014044745334505080": {
+        "instance": "TANK:DVD_Ratatouille_Channel",
+        "seen": false,
+        "is_premiere": false
+    },
+    "9411321189744300702": {
+        "instance": "TANK:DVD_TheBrothersGrimm_Channel",
+        "seen": false,
+        "is_premiere": false
+    },
+    "15594022128993513202": {
+        "instance": "TANK:DVD_FastX_Channel",
+        "seen": false,
+        "is_premiere": true
+    },
+    "10340562463044446889": {
+        "instance": "TANK:DVD_Alien_Channel",
+        "seen": false,
+        "is_premiere": false
+    },
+    "17462193470219032113": {
+        "instance": "TANK:DVD_Wanted_Channel",
+        "seen": false,
+        "is_premiere": true
+    },
+    "15425082850768651857": {
+        "instance": "TANK:DVD_Rango_Channel",
+        "seen": false,
+        "is_premiere": true
+    },
+    "10835754768009072711": {
+        "instance": "TANK:DVD_FindingDory_Channel",
+        "seen": false,
+        "is_premiere": true
+    },
+    "16493066675963805216": {
+        "instance": "TANK:DVD_RayaAndTheLastDragon_Channel",
+        "seen": false,
+        "is_premiere": false
+    },
+    "14525604593361682290": {
+        "instance": "TANK:DVD_NewJackCity_Channel",
+        "seen": false,
+        "is_premiere": false
+    },
+    "17796149046467108090": {
+        "instance": "TANK:DVD_KnivesOut_Channel",
+        "seen": false,
+        "is_premiere": true
+    },
+    "10418585254638838647": {
+        "instance": "TANK:DVD_Tangled_Channel",
+        "seen": false,
+        "is_premiere": false
+    },
+    "17050672070166669969": {
+        "instance": "TANK:DVD_Renfield_Channel",
+        "seen": false,
+        "is_premiere": true
+    },
+    "13841965619015100597": {
+        "instance": "TANK:DVD_PussInBoots_Channel",
+        "seen": false,
+        "is_premiere": false
+    },
+    "15362903996113489059": {
+        "instance": "TANK:DVD_SpiderManAcrossTheSpiderVerse_Channel",
+        "seen": false,
+        "is_premiere": true
+    },
+    "17712576266875118841": {
+        "instance": "TANK:DVD_Grease_Channel",
+        "seen": false,
+        "is_premiere": true
+    },
+    "13313572753939460017": {
+        "instance": "TANK:DVD_KungFuPanda3_Channel",
+        "seen": false,
+        "is_premiere": false
+    },
+    "9720121049686972704": {
+        "instance": "TANK:DVD_FindingNemo_Channel",
+        "seen": false,
+        "is_premiere": false
+    },
+    "17300728949275446310": {
+        "instance": "TANK:DVD_TheNotebook_Channel",
+        "seen": false,
+        "is_premiere": true
+    },
+    "18359616004803704856": {
+        "instance": "TANK:DVD_GirlInterrupted_Channel",
+        "seen": false,
+        "is_premiere": false
+    },
+    "9393409997026277975": {
+        "instance": "TANK:DVD_TheCroodsANewAge_Channel",
+        "seen": false,
+        "is_premiere": false
+    },
+    "13565093179375030591": {
+        "instance": "TANK:DVD_SharkTale_Channel",
+        "seen": false,
+        "is_premiere": false
+    },
+    "12855720229000784453": {
+        "instance": "TANK:DVD_Shrek_Channel",
+        "seen": false,
+        "is_premiere": false
+    },
+    "11603943693454224290": {
+        "instance": "TANK:DVD_InglouriousBasterds_Channel",
+        "seen": false,
+        "is_premiere": true
+    },
+    "12212770310699905141": {
+        "instance": "TANK:DVD_SaveTheLastDance_Channel",
+        "seen": false,
+        "is_premiere": false
+    },
+    "16628827656649236275": {
+        "instance": "TANK:DVD_OpenSeason_Channel",
+        "seen": false,
+        "is_premiere": false
+    },
+    "13125452495327714372": {
+        "instance": "TANK:DVD_BeeMovie_Channel",
+        "seen": false,
+        "is_premiere": false
+    },
+    "16659678760904124312": {
+        "instance": "TANK:DVD_Deadpool_Channel",
+        "seen": false,
+        "is_premiere": false
+    },
+    "10570903066362979357": {
+        "instance": "TANK:DVD_HarryPoterAndThePhilosophersStone_Channel",
+        "seen": false,
+        "is_premiere": true
+    },
+    "15031364155598253534": {
+        "instance": "TANK:DVD_TheSpiderwickChronicles_Channel",
+        "seen": false,
+        "is_premiere": true
+    },
+    "16564442396658166002": {
+        "instance": "TANK:DVD_Megamind_Channel",
+        "seen": false,
+        "is_premiere": false
+    },
+    "13501487919589716223": {
+        "instance": "TANK:DVD_Zootopia_Channel",
+        "seen": false,
+        "is_premiere": false
+    },
+    "15640699136265713661": {
+        "instance": "TANK:DVD_TheUninvited_Channel",
+        "seen": false,
+        "is_premiere": true
+    },
+    "10081707417962819755": {
+        "instance": "TANK:DVD_TheHobbitAnUnexpectedJourney_Channel",
+        "seen": false,
+        "is_premiere": true
+    },
+    "10540993838305085143": {
+        "instance": "TANK:DVD_Igor_Channel",
+        "seen": false,
+        "is_premiere": false
+    },
+    "10037304249067494909": {
+        "instance": "TANK:DVD_MonstersUniversity_Channel",
+        "seen": false,
+        "is_premiere": false
+    },
+    "10686557654825362124": {
+        "instance": "TANK:DVD_Madagascar_Channel",
+        "seen": false,
+        "is_premiere": false
+    },
+    "12818148285045838514": {
+        "instance": "TANK:DVD_TheLittleMermaid_Channel",
+        "seen": false,
+        "is_premiere": true
+    },
+    "13311468550861732652": {
+        "instance": "TANK:DVD_ScaryMovie_Channel",
+        "seen": false,
+        "is_premiere": false
+    },
+    "17170618918252076302": {
+        "instance": "TANK:DVD_Hope_Channel",
+        "seen": false,
+        "is_premiere": false
+    },
+    "16523214164466214670": {
+        "instance": "TANK:DVD_DnDHonorAmongThieves_Channel",
+        "seen": false,
+        "is_premiere": true
+    },
+    "16386724137306188674": {
+        "instance": "TANK:DVD_Encanto_Channel",
+        "seen": false,
+        "is_premiere": false
+    },
+    "15435895405607175346": {
+        "instance": "TANK:DVD_TheSecretLifeOfPets_Channel",
+        "seen": false,
+        "is_premiere": false
+    },
+    "11470489999443380060": {
+        "instance": "TANK:DVD_InsideOut_Channel",
+        "seen": false,
+        "is_premiere": true
+    },
+    "16089586121094968332": {
+        "instance": "TANK:DVD_TheLandBeforeTime_Channel",
+        "seen": false,
+        "is_premiere": false
+    },
+    "14097175776480516366": {
+        "instance": "TANK:DVD_ShrekTheHalls_Channel",
+        "seen": false,
+        "is_premiere": true
+    },
+    "15086964815235192399": {
+        "instance": "TANK:DVD_CloudyWithAChanceOfMeatBalls_Channel",
+        "seen": false,
+        "is_premiere": false
+    },
+    "17838445688724207953": {
+        "instance": "TANK:DVD_TransformersRiseOfTheBeasts_Channel",
+        "seen": false,
+        "is_premiere": true
+    },
+    "16410644766697978899": {
+        "instance": "TANK:DVD_FriendsWithBenefits_Channel",
+        "seen": false,
+        "is_premiere": false
+    },
+    "11243581262163133106": {
+        "instance": "TANK:DVD_TheTaleofDespereaux_Channel",
+        "seen": false,
+        "is_premiere": false
+    },
+    "16757851178126305042": {
+        "instance": "TANK:DVD_HotelTransylvania2_Channel",
+        "seen": false,
+        "is_premiere": true
+    },
+    "11073088079136433361": {
+        "instance": "TANK:DVD_TeenageMutantNinjaTurtles_Channel",
+        "seen": false,
+        "is_premiere": true
+    },
+    "11581106157741578637": {
+        "instance": "TANK:DVD_KongSkullIsland_Channel",
+        "seen": false,
+        "is_premiere": true
+    },
+    "15485762686555737544": {
+        "instance": "TANK:DVD_NowYouSeeMe_Channel",
+        "seen": false,
+        "is_premiere": true
+    },
+    "16339221040058849770": {
+        "instance": "TANK:DVD_OnceUponAStudio_Channel",
+        "seen": false,
+        "is_premiere": false
+    },
+    "9623770142385644778": {
+        "instance": "TANK:DVD_SonicTheHedgehog_Channel",
+        "seen": false,
+        "is_premiere": true
+    },
+    "15462152775714256957": {
+        "instance": "TANK:DVD_Bolt_Channel",
+        "seen": false,
+        "is_premiere": false
+    },
+    "11571139011143013741": {
+        "instance": "TANK:DVD_HowToTrainYourDragon_Channel",
+        "seen": false,
+        "is_premiere": true
+    },
+    "15596326275652842356": {
+        "instance": "TANK:DVD_DirtyDancing_Channel",
+        "seen": false,
+        "is_premiere": false
+    },
+    "11296470442142417236": {
+        "instance": "TANK:DVD_TheNakedGun_Channel",
+        "seen": false,
+        "is_premiere": false
+    },
+    "13829268855398582228": {
+        "instance": "TANK:DVD_Goosebumps_Channel",
+        "seen": false,
+        "is_premiere": true
+    },
+    "10092356112654961549": {
+        "instance": "TANK:DVD_Interstellar_Channel",
+        "seen": false,
+        "is_premiere": true
+    },
+    "17020725778989643831": {
+        "instance": "TANK:DVD_TheSimpsonsMovie_Channel",
+        "seen": false,
+        "is_premiere": true
+    },
+    "10749903217413771001": {
+        "instance": "TANK:DVD_Senseless_Channel",
+        "seen": false,
+        "is_premiere": false
+    },
+    "15416970068830977931": {
+        "instance": "TANK:DVD_RequiemforaDream_Channel",
+        "seen": false,
+        "is_premiere": false
+    },
+    "10219238659946036430": {
+        "instance": "TANK:DVD_WreckItRalph_Channel",
+        "seen": false,
+        "is_premiere": false
+    },
+    "16418212278417920980": {
+        "instance": "TANK:DVD_Split_Channel",
+        "seen": false,
+        "is_premiere": true
+    },
+    "13144285962828793424": {
+        "instance": "TANK:DVD_Tarot_Channel",
+        "seen": false,
+        "is_premiere": true
+    },
+    "12061369817535644590": {
+        "instance": "TANK:DVD_Titanic_Channel",
+        "seen": false,
+        "is_premiere": true
+    },
+    "12629015939819742429": {
+        "instance": "TANK:DVD_TheFlash_Channel",
+        "seen": false,
+        "is_premiere": true
+    },
+    "12478182048062048875": {
+        "instance": "TANK:DVD_CitizenKane_Channel",
+        "seen": false,
+        "is_premiere": false
+    },
+    "14386928209550542293": {
+        "instance": "TANK:DVD_Shrek2_Channel",
+        "seen": false,
+        "is_premiere": true
+    },
+    "11721543333693104516": {
+        "instance": "TANK:DVD_TheSecretLifeOfPets2_Channel",
+        "seen": false,
+        "is_premiere": false
+    },
+    "15346852687856736591": {
+        "instance": "TANK:DVD_BeetleJuice_Channel",
+        "seen": false,
+        "is_premiere": false
+    },
+    "18226133886586817784": {
+        "instance": "TANK:DVD_Trolls_Channel",
+        "seen": false,
+        "is_premiere": false
+    },
+    "15359401611991220573": {
+        "instance": "TANK:DVD_Spiderman_Channel",
+        "seen": false,
+        "is_premiere": false
+    }
+}

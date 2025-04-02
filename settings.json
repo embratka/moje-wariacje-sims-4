@@ -1,0 +1,9 @@
+{
+    "ItsMovieTime": {
+        "enable_watch_computer_autonomy": true,
+        "enable_watch_tv_autonomy": true
+    },
+    "TanksMods": {
+        "logging_level": 20
+    }
+}
